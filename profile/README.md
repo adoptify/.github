@@ -1,7 +1,3 @@
-Certainly! Below is a simple and concise README.md file for Adoptify.fr.
-
----
-
 # Adoptify.fr 🐾
 
 Welcome to Adoptify.fr, a non-profit platform dedicated to supporting local animal shelters in France. Our mission is to facilitate donations and foster transparency in financial reporting, allowing shelters to focus on what they do best: caring for animals in need.
@@ -35,5 +31,3 @@ For any inquiries, suggestions, or collaborations, please reach out to us at [co
 Help us in our mission to support local animal shelters. Donate, volunteer, or share our platform. Every bit helps in making a difference in the lives of animals in need.
 
 [Donate Now](https://adoptify.fr/)
-
--
